@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Geneonosis/geneonosis.github.io/issues"
   },
-  "homepage": "https://github.com/Geneonosis/geneonosis.github.io#readme"
+  "homepage": "https://github.com/Geneonosis/geneonosis.github.io#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
 }
